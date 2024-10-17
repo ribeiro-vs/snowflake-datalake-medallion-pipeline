@@ -150,6 +150,8 @@ docker-compose up -d
 ## Running the Pipeline
 Once everything is set up, the Airflow DAG is scheduled to run **daily at midnight**. However, you can manually trigger the DAG in the Airflow UI for testing or reprocessing.
 
+![image](https://github.com/user-attachments/assets/9c6c914a-50c3-4c63-8d0e-ceb9b903d838)
+
 ### Main DAG Execution
 The main DAG (`OPEN_BREWERY_DB_DATA_PIPELINE`) automates the entire workflow from data extraction to aggregation. Handling:
 - **Raw Data Extraction**✨ (Bronze Layer) 
