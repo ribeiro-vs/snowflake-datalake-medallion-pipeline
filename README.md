@@ -6,6 +6,8 @@ This project implements an end-to-end data pipeline using Airflow to extract dat
 ### Objective
 The primary objective of this project is to demonstrate the ingestion and transformation of data using cloud-native and scalable services, ensuring data quality through validation checks, and generating insights via aggregated analysis.
 
+![image](https://github.com/user-attachments/assets/879d3840-4e9f-4f74-b475-2986a16fd09b)
+
 ## Requirements
 To successfully run and deploy the project, you will need:
 - **Docker**🐳: To containerize the environment and ensure consistency.
@@ -101,6 +103,8 @@ This guide provides detailed steps on setting up Amazon S3 for storage, Snowflak
 
 ### 1. Create a Slack Account
 - Visit [Slack’s website](https://slack.com/) and sign up for a new workspace or log into an existing one.
+
+![image](https://github.com/user-attachments/assets/2cfcd673-4207-4604-b3e9-38d61864fab8)
 
 ### 2. Create a Slack App
 - Navigate to the [Slack API page](https://api.slack.com/apps) and click on `Create New App`.
