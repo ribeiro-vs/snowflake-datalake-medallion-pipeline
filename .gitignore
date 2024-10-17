@@ -1,0 +1,8 @@
+# Ignore the logs directory
+logs/
+
+# Ignore specific file extensions
+*~
+
+# Ignore Docker compose override files
+docker-compose.override.yml
